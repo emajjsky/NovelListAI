@@ -1,33 +1,33 @@
 {
   "Product": {
     "name": "ScriptCraft",
-    "solgan": "创意到剧本，AI全程助力。"
+    "solgan": "鹏欣漫城都荟，高品质住宅首选。"
   },
   "LandingPage": {
     "Index": {
       "title": "ScriptCraft"
     },
     "Hero": {
-      "title": "终极剧本创作工作平台",
-      "description": "逐场景打造您的故事。使用我们直观的工具和协作功能，提升您的剧本创作过程。",
-      "cta": "开始使用"
+      "title": "昆明鹏欣漫城都荟线上营销大厅",
+      "description": "98-143平方经典户型，高得房率，中央公园景观。",
+      "cta": "户型浏览"
     },
     "Features": {
-      "title": "主要功能",
+      "title": "户型介绍",
       "characterProfile": {
         "title": "角色档案生成器",
         "description": "轻松创建详细的角色档案。"
       },
       "storyStructure": {
-        "title": "故事结构",
+        "title": "周边配套",
         "description": "使用强大的结构工具组织您的故事。"
       },
       "sceneEditor": {
-        "title": "场景编辑器",
+        "title": "实景拍摄",
         "description": "精准编辑和完善您的场景。"
       },
       "aiTools": {
-        "title": "AI辅助工具",
+        "title": "房贷计算",
         "description": "利用AI驱动的建议提升您的写作。"
       }
     },

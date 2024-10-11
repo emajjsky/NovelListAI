@@ -1,11 +1,7 @@
 {
   "Product": {
     "name": "ScriptCraft",
-<<<<<<< HEAD
-    "solgan": "鹏欣漫城都荟，精品交付，享高端品质生活。"
-=======
     "solgan": "鹏欣漫城都荟，精品交付，享受高端生活品质。"
->>>>>>> f359609f0372203bd5f67ccc1cff0b59d8ffe7a9
   },
   "LandingPage": {
     "Index": {
@@ -14,11 +10,7 @@
     "Hero": {
       "title": "鹏欣地产，比期待更精彩",
       "description": "鹏欣漫城都荟，98-143平米经典户型，中央公园景观，成熟配套，品质至上",
-<<<<<<< HEAD
-      "cta": "开始使用-ok"
-=======
       "cta": "户型介绍"
->>>>>>> f359609f0372203bd5f67ccc1cff0b59d8ffe7a9
     },
     "Features": {
       "title": "产品推荐",
@@ -42,39 +34,26 @@
     "Testimonials": {
       "title": "用户评价",
       "testimonial1": {
-<<<<<<< HEAD
         "name": "大雨老师",
-        "role": "AI大神",
+        "role": "AI大牛",
         "content": "漫城都荟真的很不错，交付品质是周边楼盘里最好的，没有之一！"
       },
       "testimonial2": {
         "name": "AJ",
-        "role": "waytoagi总裁",
+        "role": "waytoagi主理人",
         "content": "漫城都荟的物业真心不错，每次回家都有非常好的体验。"
       },
       "testimonial3": {
-        "name": "许键老师",
-=======
-        "name": "Sarah Johnson",
-        "role": "大学老师",
-        "content": "漫城都荟真的很不错，交付品质是周边楼盘里最好的，没有之一！"
-      },
-      "testimonial2": {
-        "name": "Michael Lee",
-        "role": "公务员",
-        "content": "漫城都荟的物业真心不错，每次回家都有非常好的体验。"
-      },
-      "testimonial3": {
-        "name": "Emily Rodriguez",
->>>>>>> f359609f0372203bd5f67ccc1cff0b59d8ffe7a9
+        "name": "许键",
         "role": "野生菌专家",
         "content": "鹏欣地产的几个项目都很高端，漫城都荟是鹏欣的经典作品。强烈推荐！"
       }
     },
     "Header": {
-      "workflow": "公司简介",
-      "features": "项目地图",
-      "about": "春城旅游",
+      "workflow": "工作流程",
+      "features": "功能",
+      "about": "关于我们",
+      "pricing": "定价",
       "signUp": "注册"
     },
     "Footer": {
@@ -95,7 +74,7 @@
       "copyright": "© 2023 ScriptCraft。保留所有权利。"
     },
     "ProductShowcase": {
-      "title": "品质交付，鹏欣用心造好房",
+      "title": "鹏欣地产，比期待更精彩",
       "imageAlt": "ScriptCraft界面"
     }
   },
